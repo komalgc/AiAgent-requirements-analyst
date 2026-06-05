@@ -1,6 +1,6 @@
 # aiagent-requirements-analyst
 
-An AI-powered requirements analysis skill for Claude, built on the proven methodology from *Exploring Requirements: Quality Before Design* by Gause & Weinberg.
+An AI-powered requirements analysis skill for Claude, built on the proven methodology from *Exploring Requirements: Quality Before Design* 
 
 This skill teaches Claude to go beyond filling out templates — it explores, questions, and surfaces what stakeholders actually need before a single line of design or code is written.
 
@@ -109,14 +109,6 @@ We want to build a notification system for our mobile app.
 4. **Never give clients what they need instead of what they want** — surface the real desire, then guide
 5. **Explore before you document** — ask one good question rather than produce a premature document
 
----
-
-## Background
-
-This skill was built using the **Claude Skill Creator** workflow — an approach to packaging domain expertise and methodology into reusable Claude skills.
-
-The methodology is drawn from:
-> Gause, D.C. & Weinberg, G.M. (1989). *Exploring Requirements: Quality Before Design.* Dorset House Publishing.
 
 ---
 
